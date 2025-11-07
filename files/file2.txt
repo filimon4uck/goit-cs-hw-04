@@ -1,0 +1,1 @@
+When working with concurrency in Python, you can create a new thread to handle background tasks such as downloading data or processing files. Defining a class for your worker threads helps organize code and makes it easier to manage shared resources safely.

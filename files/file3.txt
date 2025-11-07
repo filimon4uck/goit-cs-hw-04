@@ -1,0 +1,1 @@
+In Python, each thread runs an instance of a class that defines its behavior. Using the threading library, developers can start multiple threads to improve performance in I/O-bound applications, while still maintaining readable and structured object-oriented code.

@@ -1,0 +1,4 @@
+In Python, multithreading is implemented using the threading module.
+To run a separate thread, you usually create a class that inherits from threading.Thread
+and override its run() method. This allows different tasks to execute in parallel
+without blocking the main thread of the program.
